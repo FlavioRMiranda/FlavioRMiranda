@@ -1,4 +1,5 @@
 ## Flavio Miranda
+![me](https://github.com/user-attachments/assets/7b785ea7-3d1f-4f7e-9c9c-305f37582c6b)
 
 <p> I choose to work with Telecom for the reason I never knew  but that always made sense to me. And I went through all the possible stage of a career path, which, in Telecom, means start with cabling, connectors, manual and hard work in open areas or inside Telecom rooms. First dealing with Voice network:  Analogic PBX initially and then with Digital PBX. I used to love to work with Philips Sopho PBX, man!!, it was really complicated to me at that time. Remote access with 56K modem??  command line with structured commands syntax??...so many boards in one chassi. 
 Then IP Voice network came and I fell in love with Asterisk. I did a lot with Asterisk. One of the project that prouds me mostly  was eliminating Fax machine for a company using Asterisk. Yes, Asterisk was able to handle fax from Fax machine.</p>
@@ -16,4 +17,4 @@ m/Trading4Saving" target="_blank"><img loading="lazy" src="https://img.shields.i
 </div>
 
 
-![me](https://github.com/user-attachments/assets/7b785ea7-3d1f-4f7e-9c9c-305f37582c6b)
+ 
