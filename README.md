@@ -14,3 +14,6 @@ m/Trading4Saving" target="_blank"><img loading="lazy" src="https://img.shields.i
 <a href = "flaviormiranda@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://www.linkedin.com/in/flaviormiranda" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+
+![me](https://github.com/user-attachments/assets/7b785ea7-3d1f-4f7e-9c9c-305f37582c6b)
